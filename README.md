@@ -28,10 +28,11 @@ Cada proyecto empieza con una pregunta de negocio y termina con una recomendaci�
 | [Calidad del llenado](https://github.com/karmyvicenteasbun-sys/control-calidad-llenado) | ¿Cuánta bebida se regala por sobrellenar las botellas? | Python, control estadístico |
 | [Pronóstico de demanda](https://github.com/karmyvicenteasbun-sys/pronostico-demanda-bebidas) | ¿Cuántas cajas se van a vender y cuánto vale pronosticar mejor? | Python, series de tiempo |
 | [Impacto de una promoción](https://github.com/karmyvicenteasbun-sys/impacto-promocion-verano) | ¿La promoción vendió más o solo adelantó compras? | Python, diferencias en diferencias |
+| [Monitoreo de precios con scraper](https://github.com/karmyvicenteasbun-sys/scraper-catalogo-precios) | ¿En qué productos vendo muy por debajo de la competencia y qué precios cambió ella esta semana? | Python, requests, BeautifulSoup, Excel |
 
 ### Herramientas
 
-Power BI (DAX, Power Query) · SQL · Python (pandas, scikit-learn, statsmodels, matplotlib) · Excel · Google Sheets y Apps Script
+Power BI (DAX, Power Query) · SQL · Python (pandas, scikit-learn, statsmodels, matplotlib, requests, BeautifulSoup) · Excel · Google Sheets y Apps Script
 
 ### Contacto
 
